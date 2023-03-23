@@ -44,3 +44,41 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Home page
+
+![image](https://user-images.githubusercontent.com/98088041/227201310-f158cde6-f107-495d-87cb-de778db3a960.png)
+
+Filter by music type
+
+![image](https://user-images.githubusercontent.com/98088041/227201410-dcaeb394-6f85-47ab-bab9-0f3b863ee56b.png)
+
+Login / register
+
+![image](https://user-images.githubusercontent.com/98088041/227201487-9c15372a-4772-44aa-85a5-66b94ece17cf.png)
+
+![image](https://user-images.githubusercontent.com/98088041/227201529-89470900-b67d-4f18-abf1-becfd410d6a3.png)
+
+Booking
+![image](https://user-images.githubusercontent.com/98088041/227201657-cb012625-feeb-4e39-99ae-365a664e8e14.png)
+
+User page with QR code
+
+![image](https://user-images.githubusercontent.com/98088041/227201733-63b3fdd2-c2e3-4519-8a03-84bd5f1299b9.png)
+
+Administration pages with CRUD and KPI management
+
+![image](https://user-images.githubusercontent.com/98088041/227201796-8aeb8cdb-9015-43c2-be8f-1759689caabb.png)
+
+![image](https://user-images.githubusercontent.com/98088041/227201836-02953953-675d-4967-b3af-fa80c2d8e58a.png)
+
+![image](https://user-images.githubusercontent.com/98088041/227201878-f69495b2-11d5-497c-b238-0ed564f908c3.png)
+
+
+
+
+
+
+
+
+
