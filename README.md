@@ -47,11 +47,13 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Home page
 
-![image](https://user-images.githubusercontent.com/98088041/227201310-f158cde6-f107-495d-87cb-de778db3a960.png)
+![image](https://user-images.githubusercontent.com/98088041/231753468-ebb5c13d-3377-4bf4-9b19-7da6a685202f.png)
+
 
 Filter by music type
 
-![image](https://user-images.githubusercontent.com/98088041/227201410-dcaeb394-6f85-47ab-bab9-0f3b863ee56b.png)
+![image](https://user-images.githubusercontent.com/98088041/231753741-fa6a8371-e08e-46e3-a526-336720e5e2a9.png)
+
 
 Login / register
 
@@ -60,7 +62,8 @@ Login / register
 ![image](https://user-images.githubusercontent.com/98088041/227201529-89470900-b67d-4f18-abf1-becfd410d6a3.png)
 
 Booking
-![image](https://user-images.githubusercontent.com/98088041/227201657-cb012625-feeb-4e39-99ae-365a664e8e14.png)
+![image](https://user-images.githubusercontent.com/98088041/231754096-d4498ab7-1a66-4884-8f54-1bbe0b3fa72c.png)
+
 
 User page with QR code
 
